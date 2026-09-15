@@ -48,7 +48,7 @@ export default function StorySection() {
             variants={fadeUp}
             className="mt-4 font-display text-fluid-section font-semibold leading-[1.05] text-teal-900 text-balance"
           >
-            Built for good coffee, thoughtful food and unhurried moments.
+            Rooted in Tamil flavours, made for every table.
           </motion.h2>
           <motion.p variants={fadeUp} className="mt-5 text-base leading-relaxed text-ink-soft sm:text-lg">
             Golden Hour Café began with a simple idea — that good coffee and thoughtful food
