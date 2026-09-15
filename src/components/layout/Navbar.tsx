@@ -6,7 +6,7 @@ import { usePathname } from 'next/navigation'
 import { AnimatePresence, motion } from 'framer-motion'
 import { Menu as MenuIcon, X, Phone, Instagram } from 'lucide-react'
 import { nav, brand, contact } from '../../data/site'
-import DiamondMark from '../ui/DiamondMark'
+import GoldenHourMark from '../ui/GoldenHourMark'
 
 interface BrandProps {
   light?: boolean
@@ -26,11 +26,10 @@ function Brand({ light, onClick }: BrandProps) {
           light ? 'bg-cream-50/10 ring-1 ring-cream-50/30' : 'bg-teal-600/10 ring-1 ring-teal-600/20'
         }`}
       >
-        <DiamondMark
-          className={`h-6 w-6 transition-transform duration-500 group-hover:rotate-90 ${
+        <GoldenHourMark
+          className={`h-6 w-6 transition-transform duration-500 group-hover:scale-110 ${
             light ? 'text-cream-50' : 'text-teal-600'
           }`}
-          withDot
         />
       </span>
       <span className="flex flex-col leading-none">
