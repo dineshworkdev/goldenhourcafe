@@ -90,7 +90,7 @@ export default function Hero() {
             </span>
             <div className="leading-tight">
               <p className="font-display text-sm font-semibold text-teal-900">Seeraga Samba Biryani</p>
-              <p className="text-xs font-bold text-gold-600">₹15 · Signature</p>
+              <p className="text-xs font-bold text-gold-600">₹220 · Signature</p>
             </div>
           </motion.div>
 

@@ -78,8 +78,8 @@ export default function About() {
             className="relative order-2 mx-auto w-full max-w-md lg:order-1 lg:max-w-none"
           >
             <ArchFrame
-              src="/media/posters/beef-palli-ghee-rice.jpg"
-              alt="Chicken Pallipalayam with ghee rice"
+              src="/media/brand/logo.jpg"
+              alt="images"
               w={640}
               h={651}
               className="aspect-[4/5] w-full"

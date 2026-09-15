@@ -19,9 +19,9 @@ export default function Footer() {
               <img
                 src={brand.logo}
                 alt={`${brand.name} logo`}
-                width="56"
+                width="156"
                 height="56"
-                className="h-14 w-14 rounded-xl object-cover"
+                className="h-24 w-44 rounded-lg object-cover"
               />
             </div>
             <div>
