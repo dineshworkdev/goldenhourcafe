@@ -2,7 +2,7 @@ import Marquee from '../ui/Marquee'
 
 const SPECIALTIES = [
   'Seeraga Samba Biryani',
-  'Masala Chai',
+  'Masala Tea',
   'Fresh Juices',
   'Idiyappam & Muttai Kuzhambu',
   'Banana Leaf Sappadu',

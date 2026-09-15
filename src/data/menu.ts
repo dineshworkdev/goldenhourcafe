@@ -120,7 +120,7 @@ export const menuCategories: MenuCategory[] = [
   },
   {
     id: 'beverages',
-    name: 'Fresh Juices & Chai',
+    name: 'Fresh Juices & Coffee',
     malayalam: 'ஜூஸ் & தேநீர்',
     icon: 'CupSoda',
     blurb: 'Pressed to order. No added preservatives — just fruit, ice and sunshine.',
@@ -133,7 +133,7 @@ export const menuCategories: MenuCategory[] = [
       { name: 'Strawberry Juice', price: 9 },
       { name: 'Mixed Fruit Juice', price: 9 },
       { name: 'Fresh Lime / Lemon-Mint', price: 5 },
-      { name: 'Masala Chai', desc: 'Strong, sweet, milky spiced tea.', price: 2, featured: true },
+      { name: 'Masala Tea', desc: 'Strong, sweet, milky spiced tea.', price: 2, featured: true },
       { name: 'Sukku Kaapi', desc: 'Spiced dry-ginger black coffee, warm and earthy.', price: 2 },
       { name: 'Milk Tea', price: 2 },
     ],
@@ -143,7 +143,7 @@ export const menuCategories: MenuCategory[] = [
     name: 'Tea-time Snacks',
     malayalam: 'சிற்றுண்டிகள்',
     icon: 'Cookie',
-    blurb: 'What the masala chai has been waiting for.',
+    blurb: 'What the masala Tea has been waiting for.',
     items: [
       { name: 'Samosa', price: 1 },
       { name: 'Vazhaipazham Bajji', desc: 'Ripe-banana fritters in a crisp batter.', price: 1 },

@@ -41,7 +41,6 @@ export default function VideoFeature() {
             <div className="relative overflow-hidden rounded-[2rem] bg-teal-950 shadow-deep ring-1 ring-cream-50/10">
               <video
                 src="/media/videos/fresh-juice-reel.mp4"
-                poster="/media/videos/fresh-juice-reel-poster.jpg"
                 autoPlay
                 muted
                 loop
