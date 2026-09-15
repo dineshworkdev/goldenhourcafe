@@ -125,7 +125,7 @@ export const galleryItems: GalleryItem[] = [
     w: 720,
     h: 900,
     alt: 'Masala chai with a plate of evening snacks',
-    caption: 'Masala chai & evening snacks.',
+    caption: 'Masala Tea & Evening Snacks.',
     featured: true,
   },
   {
