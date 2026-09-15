@@ -1,0 +1,5 @@
+# Keep build/tooling configs out of GitHub's language statistics.
+# Next 14 has no next.config.ts, and Next's PostCSS loader has no .ts config,
+# so these stay as JS — but they are not application code.
+next.config.mjs linguist-detectable=false
+postcss.config.js linguist-detectable=false
